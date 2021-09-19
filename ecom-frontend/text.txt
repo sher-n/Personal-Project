@@ -1,0 +1,9 @@
+-cartitem ---- border fix
+
+-cart page ----ok
+
+product detail page--- ok
+
+-checkout page ---- responsive
+
+-pendinglist page  ---ok

@@ -1,0 +1,7 @@
+
+ok - register user
+ok - login with token
+ok - Add info to profile or edit
+ok - add product to sell
+ok - add cart to profile
+ok - buy product => notification "prepare product for delivery" => delete product from cart
